@@ -23,11 +23,11 @@ This Firefox extension allows you to view the **live chat overlay** while watchi
 
 ## 📥 Installation  
 
-### **From Firefox Add-ons Store (Recommended)**
-🔗 [Get it on Firefox Add-ons](#) _(Coming soon)_  
+### **From Firefox Add-ons Store**
+🔗 [Get it on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-live-chat-overlay1/)
 
 ### **Manual Installation**  
-1. **Download** the latest `.zip` from [Releases](https://github.com/pratyush-pradhan/your-repo/releases).  
+1. **Download** the latest `.zip` from [Releases](https://github.com/Pratyush2005/YouTube-Live-Chat-Overlay/releases).  
 2. Open `about:debugging` in Firefox.  
 3. Click **"This Firefox" → "Load Temporary Add-on"**.  
 4. Select the `manifest.json` file inside the extracted folder.  
@@ -54,7 +54,7 @@ Your privacy is **100% respected** – no data is collected! 🚀
 ## 🛠️ Development  
 Want to contribute? Follow these steps:  
 ```bash
-git clone https://github.com/pratyush-pradhan/your-repo.git
+git clone https://github.com/Pratyush2005/YouTube-Live-Chat-Overlay.git
 cd your-repo
 ```
 - Modify the code  
@@ -70,7 +70,7 @@ This project is licensed under the **GNU License**. See [`LICENSE`](LICENSE) for
 
 ## 💡 Author  
 Developed with ❤️ by **Pratyush Pradhan**  
-🔗 GitHub: [@pratyush-pradhan](https://github.com/pratyush-pradhan)  
+🔗 GitHub: [@Pratyush2005](https://github.com/Pratyush2005)  
 
 ---
 
